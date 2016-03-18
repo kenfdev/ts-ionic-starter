@@ -7,6 +7,8 @@
     "node_modules",
     "bower_components",
     "www/lib",
-    "platforms"
+    "platforms",
+    "typings/main.d.ts",
+    "typings/main/"
   ]
 }
