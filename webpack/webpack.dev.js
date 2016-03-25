@@ -2,9 +2,7 @@ var webpack = require('webpack');
 
 module.exports = {
     entry: {
-        app: './src/app/app.ts',
-        controllers: './src/app/controllers.ts',
-        services: './src/app/services.ts'
+        app: './src/app/app.module.ts'
     },
     output: {
         filename: '[name].js',
