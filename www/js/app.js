@@ -155,7 +155,8 @@
 	    // Might use a resource here that returns a JSON array
 	    // Some fake testing data
 	    var chats = [
-	        undefined, {
+	        undefined,
+	        {
 	            id: 1,
 	            name: 'Max Lynx',
 	            lastText: 'Hey, it\'s me',
