@@ -3,12 +3,8 @@ export default function ChatsService() {
 
     // Some fake testing data
     var chats = [
+        undefined,
         {
-            id: 0,
-            name: 'Ben Sparrow',
-            lastText: 'You on your way?',
-            face: 'img/ben.png'
-        }, {
             id: 1,
             name: 'Max Lynx',
             lastText: 'Hey, it\'s me',

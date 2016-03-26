@@ -13,6 +13,8 @@ module.exports = {
         extensions: ['', '.ts']
     },
 
+    devtool: 'source-map',
+
     plugins: [],
 
     module: {
